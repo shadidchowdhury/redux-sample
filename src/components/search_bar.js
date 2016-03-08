@@ -1,3 +1,9 @@
-/**
- * Created by shadidchowdhury on 03/03/16.
- */
+import React from 'react'
+
+const SearchBar = () => {
+
+    return <input/>;
+
+};
+
+export default SearchBar;
